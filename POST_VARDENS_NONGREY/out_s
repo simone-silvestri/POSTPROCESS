@@ -1,0 +1,180 @@
+        22     21168 Reynolds=         3750.000 Prandtl=            1.000 Planck=            0.030 Lz=            1.500 Tc= 
+ reading file number            1
+ 21169         190         192         192
+file=     1 bulk=   1.000219 cbulk=   0.615844 opthk=   8.016001
+ reading file number            2
+ 21170         190         192         192
+file=     2 bulk=   1.000219 cbulk=   0.615933 opthk=   8.016784
+ reading file number            3
+ 21171         190         192         192
+file=     3 bulk=   1.000224 cbulk=   0.615993 opthk=   8.017430
+ reading file number            4
+ 21172         190         192         192
+file=     4 bulk=   1.000216 cbulk=   0.616071 opthk=   8.017886
+ reading file number            5
+ 21173         190         192         192
+file=     5 bulk=   1.000217 cbulk=   0.616253 opthk=   8.017865
+ reading file number            6
+ 21174         190         192         192
+file=     6 bulk=   1.000212 cbulk=   0.616446 opthk=   8.017359
+ reading file number            7
+ 21175         190         192         192
+file=     7 bulk=   1.000222 cbulk=   0.616629 opthk=   8.016683
+ reading file number            8
+ 21176         190         192         192
+file=     8 bulk=   1.000214 cbulk=   0.616760 opthk=   8.016090
+ reading file number            9
+ 21177         190         192         192
+file=     9 bulk=   1.000219 cbulk=   0.616900 opthk=   8.015591
+ reading file number           10
+ 21178         190         192         192
+file=    10 bulk=   1.000229 cbulk=   0.616937 opthk=   8.015508
+ reading file number           11
+ 21179         190         192         192
+file=    11 bulk=   1.000229 cbulk=   0.616912 opthk=   8.015453
+ reading file number           12
+ 21180         190         192         192
+file=    12 bulk=   1.000221 cbulk=   0.616814 opthk=   8.015653
+ reading file number           13
+ 21181         190         192         192
+file=    13 bulk=   1.000221 cbulk=   0.616781 opthk=   8.015989
+ reading file number           14
+ 21182         190         192         192
+file=    14 bulk=   1.000213 cbulk=   0.616773 opthk=   8.016174
+ reading file number           15
+ 21183         190         192         192
+file=    15 bulk=   1.000220 cbulk=   0.616665 opthk=   8.016702
+ reading file number           16
+ 21184         190         192         192
+file=    16 bulk=   1.000218 cbulk=   0.616546 opthk=   8.017227
+ reading file number           17
+ 21185         190         192         192
+file=    17 bulk=   1.000209 cbulk=   0.616483 opthk=   8.017902
+ reading file number           18
+ 21186         190         192         192
+file=    18 bulk=   1.000215 cbulk=   0.616425 opthk=   8.018527
+ reading file number           19
+ 21187         190         192         192
+file=    19 bulk=   1.000219 cbulk=   0.616287 opthk=   8.019064
+ reading file number           20
+ 21188         190         192         192
+file=    20 bulk=   1.000204 cbulk=   0.616165 opthk=   8.019052
+ reading file number           21
+ 21189         190         192         192
+file=    21 bulk=   1.000197 cbulk=   0.616129 opthk=   8.018753
+ reading file number           22
+ 21190         190         192         192
+file=    22 bulk=   1.000209 cbulk=   0.616221 opthk=   8.018271
+ reading file number            1
+ 21169         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.73990574479103     
+ reading file number            2
+ 21170         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.69130105525255     
+ reading file number            3
+ 21171         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.70981883257627     
+ reading file number            4
+ 21172         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.70997427403927     
+ reading file number            5
+ 21173         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.71303372457623     
+ reading file number            6
+ 21174         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.72394065558910     
+ reading file number            7
+ 21175         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.72249589487910     
+ reading file number            8
+ 21176         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.71986581012607     
+ reading file number            9
+ 21177         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.70972025766969     
+ reading file number           10
+ 21178         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.71434194967151     
+ reading file number           11
+ 21179         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.70141690596938     
+ reading file number           12
+ 21180         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.69291019067168     
+ reading file number           13
+ 21181         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.70021044090390     
+ reading file number           14
+ 21182         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.79018967226148     
+ reading file number           15
+ 21183         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.77479796856642     
+ reading file number           16
+ 21184         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.84851139038801     
+ reading file number           17
+ 21185         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.03140848502517     
+ reading file number           18
+ 21186         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.00553776696324     
+ reading file number           19
+ 21187         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.99922722205520     
+ reading file number           20
+ 21188         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.01673957705498     
+ reading file number           21
+ 21189         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    2.99789490923285     
+ reading file number           22
+ 21190         190         192         192
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.00604567304254     
+ calculating normalization factors
+ done with : reading the data
+ Time required:    256.756576724350     

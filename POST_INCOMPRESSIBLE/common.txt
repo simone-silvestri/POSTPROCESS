@@ -1,0 +1,31 @@
+      real*8 unew(0:i1,jmax/p_row,kmax/p_col)
+      real*8 vnew(0:i1,jmax/p_row,kmax/p_col)
+      real*8 wnew(0:i1,jmax/p_row,kmax/p_col)
+      real*8 cnew(0:i1,jmax/p_row,kmax/p_col)
+      real*8 enew(0:i1,jmax/p_row,kmax/p_col)
+      real*8 qrad(0:i1,jmax/p_row,kmax/p_col)
+      real*8 knew(0:i1,jmax/p_row,kmax/p_col)
+      real*8 Gnew(0:i1,jmax/p_row,kmax/p_col)    
+      real*8 fxnew(0:i1,jmax/p_row,kmax/p_col)        
+      real*8 fynew(0:i1,jmax/p_row,kmax/p_col)        
+      real*8 fznew(0:i1,jmax/p_row,kmax/p_col)        
+ 
+      common /vels/unew,vnew,wnew,cnew,enew,qrad,knew,Gnew,fxnew,fynew,fznew
+      save /vels/
+
+      real*8 ru(0:i1),rp(0:i1),bu(0:hmax),bp(hmax),dr,dtheta,dz,visc,thdif,dt,Pr,Re,Pl,Gr,Rout,Rin,Ck
+      common /grid/ru,rp,bu,bp,dr,dtheta,dz,visc,thdif,dt,Pr,Re,Pl,Gr,Rout,Rin,Ck
+      save /grid/
+
+      real*8 mr_s(imax),mr_c(0:imax)
+      integer Rad
+      common /maps/mr_s,mr_c,Rad
+      save /maps/
+ 
+      real*8 p(imax,jmax/p_row,kmax/p_col)
+      common /press/p
+      save /press/
+  
+      real*8 Twb,Twt,Tc,Tplus
+      common /temp/Twb,Twt,Tc,Tplus
+      save /temp/ 

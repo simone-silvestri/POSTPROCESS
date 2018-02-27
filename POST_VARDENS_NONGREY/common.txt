@@ -1,0 +1,56 @@
+      real unew(0:i1,jmax/p_row,kmax/p_col)
+      real vnew(0:i1,jmax/p_row,kmax/p_col)
+      real wnew(0:i1,jmax/p_row,kmax/p_col)
+      real cnew(0:i1,jmax/p_row,kmax/p_col)
+      real enew(0:i1,jmax/p_row,kmax/p_col)
+      real renew(0:i1,jmax/p_row,kmax/p_col)
+      real rhonew(0:i1,jmax/p_row,kmax/p_col)
+      real phirnew(0:i1,jmax/p_row,kmax/p_col)
+      real phitnew(0:i1,jmax/p_row,kmax/p_col)
+      real phiznew(0:i1,jmax/p_row,kmax/p_col)
+
+      real fxnew(0:i1,jmax/p_row,kmax/p_col)
+      real fynew(0:i1,jmax/p_row,kmax/p_col)
+      real fznew(0:i1,jmax/p_row,kmax/p_col)
+      real qsnew(0:i1,jmax/p_row,kmax/p_col)
+      real qrad(0:i1,jmax/p_row,kmax/p_col)
+      real vcor(0:i1,jmax/p_row,kmax/p_col)
+      real Gnew(0:i1,jmax/p_row,kmax/p_col)
+      real knew(0:i1,jmax/p_row,kmax/p_col)
+      real qpnew(0:i1,jmax/p_row,kmax/p_col)
+      real Gpnew(0:i1,jmax/p_row,kmax/p_col)
+      real kpnew(0:i1,jmax/p_row,kmax/p_col)
+
+      real Twallh,Twallc,hwallh,hwallc
+
+      common /vels/unew,vnew,wnew,cnew,enew,renew,rhonew,phirnew,phitnew,phiznew,
+     ^             fxnew,fynew,fznew,qsnew,qrad,vcor,Gnew,knew,qpnew,Gpnew,kpnew,Twallh,Twallc,
+     ^	           hwallh,hwallc
+      save /vels/
+
+      real ru(0:i1),rp(0:i1),dr,dtheta,dz,visc,dt,Rin,Rout,Pr,Re,Pl,Tplus,Gr,delta(imax)
+      common /grid/ru,rp,dr,dtheta,dz,visc,dt,Rin,Rout,Pr,Re,Pl,Tplus,Gr,delta
+      save /grid/
+
+      real mr_s(imax),mr_c(0:imax)
+      common /maps/mr_s,mr_c
+      save /maps/
+ 
+      real p(imax,jmax/p_row,kmax/p_col)
+      common /press/p
+      
+      save /press/
+  
+      real enthTab(1:nTab),tempTab(1:nTab),rhoTab(1:nTab),muTab(1:nTab),lamTab(1:nTab),cpTab(1:nTab)
+      real temp2Tab(1:nTab),rho2Tab(1:nTab),mu2Tab(1:nTab),lam2Tab(1:nTab),cp2Tab(1:nTab)
+      common /table/enthTab,tempTab,rhoTab,muTab,lamTab,temp2Tab,rho2Tab,mu2Tab,lam2Tab,cpTab,cp2Tab
+      save /table/
+
+      integer rank_nord,rank_sud,rank_top,rank_bot
+      common /process/ rank_nord,rank_sud,rank_top,rank_bot
+      save /process/
+
+      real Twb,Twt,Tc
+      common /temp/Twb,Twt,Tc
+      save /temp/
+

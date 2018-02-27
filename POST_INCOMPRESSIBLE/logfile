@@ -1,0 +1,964 @@
+       120     21861 Reynolds=         2900.000 Prandtl=            1.000 Planck=            0.300 Lz=           12.566 Tc=          573.000
+ reading file number            1
+ 21862         166         192         160
+file=     1 bulk=   0.999999 cbulk=   0.588597 opthk=  11.119266
+ reading file number            2
+ 21863         166         192         160
+file=     2 bulk=   0.999999 cbulk=   0.588688 opthk=  11.118768
+ reading file number            3
+ 21864         166         192         160
+file=     3 bulk=   0.999999 cbulk=   0.588782 opthk=  11.118546
+ reading file number            4
+ 21865         166         192         160
+file=     4 bulk=   0.999999 cbulk=   0.588852 opthk=  11.118495
+ reading file number            5
+ 21866         166         192         160
+file=     5 bulk=   0.999999 cbulk=   0.588899 opthk=  11.118456
+ reading file number            6
+ 21867         166         192         160
+file=     6 bulk=   0.999999 cbulk=   0.588933 opthk=  11.118402
+ reading file number            7
+ 21868         166         192         160
+file=     7 bulk=   0.999999 cbulk=   0.588974 opthk=  11.118370
+ reading file number            8
+ 21869         166         192         160
+file=     8 bulk=   0.999999 cbulk=   0.589025 opthk=  11.118566
+ reading file number            9
+ 21870         166         192         160
+file=     9 bulk=   0.999999 cbulk=   0.589035 opthk=  11.118750
+ reading file number           10
+ 21871         166         192         160
+file=    10 bulk=   0.999999 cbulk=   0.589057 opthk=  11.118938
+ reading file number           11
+ 21872         166         192         160
+file=    11 bulk=   0.999999 cbulk=   0.589116 opthk=  11.119309
+ reading file number           12
+ 21873         166         192         160
+file=    12 bulk=   0.999999 cbulk=   0.589123 opthk=  11.119687
+ reading file number           13
+ 21874         166         192         160
+file=    13 bulk=   0.999999 cbulk=   0.589135 opthk=  11.120297
+ reading file number           14
+ 21875         166         192         160
+file=    14 bulk=   0.999999 cbulk=   0.589168 opthk=  11.120875
+ reading file number           15
+ 21876         166         192         160
+file=    15 bulk=   0.999999 cbulk=   0.589318 opthk=  11.120994
+ reading file number           16
+ 21877         166         192         160
+file=    16 bulk=   0.999999 cbulk=   0.589413 opthk=  11.120827
+ reading file number           17
+ 21878         166         192         160
+file=    17 bulk=   0.999999 cbulk=   0.589482 opthk=  11.120263
+ reading file number           18
+ 21879         166         192         160
+file=    18 bulk=   0.999999 cbulk=   0.589536 opthk=  11.119474
+ reading file number           19
+ 21880         166         192         160
+file=    19 bulk=   0.999999 cbulk=   0.589562 opthk=  11.118821
+ reading file number           20
+ 21881         166         192         160
+file=    20 bulk=   0.999999 cbulk=   0.589556 opthk=  11.118421
+ reading file number           21
+ 21882         166         192         160
+file=    21 bulk=   0.999999 cbulk=   0.589537 opthk=  11.118369
+ reading file number           22
+ 21883         166         192         160
+file=    22 bulk=   0.999999 cbulk=   0.589454 opthk=  11.118101
+ reading file number           23
+ 21884         166         192         160
+file=    23 bulk=   0.999999 cbulk=   0.589360 opthk=  11.117849
+ reading file number           24
+ 21885         166         192         160
+file=    24 bulk=   0.999999 cbulk=   0.589328 opthk=  11.117818
+ reading file number           25
+ 21886         166         192         160
+file=    25 bulk=   0.999999 cbulk=   0.589300 opthk=  11.117692
+ reading file number           26
+ 21887         166         192         160
+file=    26 bulk=   0.999999 cbulk=   0.589238 opthk=  11.117192
+ reading file number           27
+ 21888         166         192         160
+file=    27 bulk=   0.999999 cbulk=   0.589105 opthk=  11.116898
+ reading file number           28
+ 21889         166         192         160
+file=    28 bulk=   0.999999 cbulk=   0.588862 opthk=  11.116775
+ reading file number           29
+ 21890         166         192         160
+file=    29 bulk=   0.999999 cbulk=   0.588653 opthk=  11.116888
+ reading file number           30
+ 21891         166         192         160
+file=    30 bulk=   0.999999 cbulk=   0.588437 opthk=  11.117077
+ reading file number           31
+ 21892         166         192         160
+file=    31 bulk=   0.999999 cbulk=   0.588225 opthk=  11.117478
+ reading file number           32
+ 21893         166         192         160
+file=    32 bulk=   0.999999 cbulk=   0.588102 opthk=  11.118271
+ reading file number           33
+ 21894         166         192         160
+file=    33 bulk=   0.999999 cbulk=   0.587995 opthk=  11.119127
+ reading file number           34
+ 21895         166         192         160
+file=    34 bulk=   0.999999 cbulk=   0.587951 opthk=  11.120110
+ reading file number           35
+ 21896         166         192         160
+file=    35 bulk=   0.999999 cbulk=   0.587942 opthk=  11.121073
+ reading file number           36
+ 21897         166         192         160
+file=    36 bulk=   0.999999 cbulk=   0.587924 opthk=  11.121724
+ reading file number           37
+ 21898         166         192         160
+file=    37 bulk=   0.999999 cbulk=   0.587890 opthk=  11.121996
+ reading file number           38
+ 21899         166         192         160
+file=    38 bulk=   0.999999 cbulk=   0.587884 opthk=  11.122112
+ reading file number           39
+ 21900         166         192         160
+file=    39 bulk=   0.999999 cbulk=   0.587879 opthk=  11.122154
+ reading file number           40
+ 21901         166         192         160
+file=    40 bulk=   0.999999 cbulk=   0.587875 opthk=  11.122349
+ reading file number           41
+ 21902         166         192         160
+file=    41 bulk=   0.999999 cbulk=   0.587888 opthk=  11.122801
+ reading file number           42
+ 21903         166         192         160
+file=    42 bulk=   0.999999 cbulk=   0.587914 opthk=  11.123276
+ reading file number           43
+ 21904         166         192         160
+file=    43 bulk=   0.999999 cbulk=   0.587894 opthk=  11.123799
+ reading file number           44
+ 21905         166         192         160
+file=    44 bulk=   0.999999 cbulk=   0.587797 opthk=  11.124336
+ reading file number           45
+ 21906         166         192         160
+file=    45 bulk=   0.999999 cbulk=   0.587715 opthk=  11.124819
+ reading file number           46
+ 21907         166         192         160
+file=    46 bulk=   0.999999 cbulk=   0.587678 opthk=  11.125218
+ reading file number           47
+ 21908         166         192         160
+file=    47 bulk=   0.999999 cbulk=   0.587669 opthk=  11.125046
+ reading file number           48
+ 21909         166         192         160
+file=    48 bulk=   0.999999 cbulk=   0.587627 opthk=  11.124475
+ reading file number           49
+ 21910         166         192         160
+file=    49 bulk=   0.999999 cbulk=   0.587552 opthk=  11.123866
+ reading file number           50
+ 21911         166         192         160
+file=    50 bulk=   0.999999 cbulk=   0.587480 opthk=  11.123230
+ reading file number           51
+ 21912         166         192         160
+file=    51 bulk=   0.999999 cbulk=   0.587401 opthk=  11.122489
+ reading file number           52
+ 21913         166         192         160
+file=    52 bulk=   0.999999 cbulk=   0.587302 opthk=  11.121951
+ reading file number           53
+ 21914         166         192         160
+file=    53 bulk=   0.999999 cbulk=   0.587262 opthk=  11.121454
+ reading file number           54
+ 21915         166         192         160
+file=    54 bulk=   0.999999 cbulk=   0.587274 opthk=  11.120778
+ reading file number           55
+ 21916         166         192         160
+file=    55 bulk=   0.999999 cbulk=   0.587330 opthk=  11.119735
+ reading file number           56
+ 21917         166         192         160
+file=    56 bulk=   0.999999 cbulk=   0.587322 opthk=  11.118501
+ reading file number           57
+ 21918         166         192         160
+file=    57 bulk=   0.999999 cbulk=   0.587279 opthk=  11.117526
+ reading file number           58
+ 21919         166         192         160
+file=    58 bulk=   0.999999 cbulk=   0.587202 opthk=  11.116586
+ reading file number           59
+ 21920         166         192         160
+file=    59 bulk=   0.999999 cbulk=   0.587129 opthk=  11.115591
+ reading file number           60
+ 21921         166         192         160
+file=    60 bulk=   0.999999 cbulk=   0.587100 opthk=  11.114956
+ reading file number           61
+ 21922         166         192         160
+file=    61 bulk=   0.999999 cbulk=   0.587128 opthk=  11.114691
+ reading file number           62
+ 21923         166         192         160
+file=    62 bulk=   0.999999 cbulk=   0.587196 opthk=  11.114777
+ reading file number           63
+ 21924         166         192         160
+file=    63 bulk=   0.999999 cbulk=   0.587269 opthk=  11.115236
+ reading file number           64
+ 21925         166         192         160
+file=    64 bulk=   0.999999 cbulk=   0.587282 opthk=  11.116076
+ reading file number           65
+ 21926         166         192         160
+file=    65 bulk=   0.999999 cbulk=   0.587237 opthk=  11.117140
+ reading file number           66
+ 21927         166         192         160
+file=    66 bulk=   0.999999 cbulk=   0.587162 opthk=  11.118230
+ reading file number           67
+ 21928         166         192         160
+file=    67 bulk=   0.999999 cbulk=   0.587124 opthk=  11.119477
+ reading file number           68
+ 21929         166         192         160
+file=    68 bulk=   0.999999 cbulk=   0.587115 opthk=  11.120974
+ reading file number           69
+ 21930         166         192         160
+file=    69 bulk=   0.999999 cbulk=   0.587118 opthk=  11.122256
+ reading file number           70
+ 21931         166         192         160
+file=    70 bulk=   0.999999 cbulk=   0.587089 opthk=  11.123255
+ reading file number           71
+ 21932         166         192         160
+file=    71 bulk=   0.999999 cbulk=   0.587042 opthk=  11.124115
+ reading file number           72
+ 21933         166         192         160
+file=    72 bulk=   0.999999 cbulk=   0.586980 opthk=  11.124646
+ reading file number           73
+ 21934         166         192         160
+file=    73 bulk=   0.999999 cbulk=   0.586933 opthk=  11.124873
+ reading file number           74
+ 21935         166         192         160
+file=    74 bulk=   0.999999 cbulk=   0.586921 opthk=  11.125208
+ reading file number           75
+ 21936         166         192         160
+file=    75 bulk=   0.999999 cbulk=   0.586958 opthk=  11.125646
+ reading file number           76
+ 21937         166         192         160
+file=    76 bulk=   0.999999 cbulk=   0.586950 opthk=  11.125919
+ reading file number           77
+ 21938         166         192         160
+file=    77 bulk=   0.999999 cbulk=   0.586945 opthk=  11.126396
+ reading file number           78
+ 21939         166         192         160
+file=    78 bulk=   0.999999 cbulk=   0.587002 opthk=  11.126811
+ reading file number           79
+ 21940         166         192         160
+file=    79 bulk=   0.999999 cbulk=   0.587071 opthk=  11.127478
+ reading file number           80
+ 21941         166         192         160
+file=    80 bulk=   0.999999 cbulk=   0.587138 opthk=  11.128560
+ reading file number           81
+ 21942         166         192         160
+file=    81 bulk=   0.999999 cbulk=   0.587119 opthk=  11.129631
+ reading file number           82
+ 21943         166         192         160
+file=    82 bulk=   0.999999 cbulk=   0.587111 opthk=  11.130567
+ reading file number           83
+ 21944         166         192         160
+file=    83 bulk=   0.999999 cbulk=   0.587166 opthk=  11.131215
+ reading file number           84
+ 21945         166         192         160
+file=    84 bulk=   0.999999 cbulk=   0.587254 opthk=  11.131466
+ reading file number           85
+ 21946         166         192         160
+file=    85 bulk=   0.999999 cbulk=   0.587339 opthk=  11.131326
+ reading file number           86
+ 21947         166         192         160
+file=    86 bulk=   0.999999 cbulk=   0.587398 opthk=  11.130803
+ reading file number           87
+ 21948         166         192         160
+file=    87 bulk=   0.999999 cbulk=   0.587514 opthk=  11.130306
+ reading file number           88
+ 21949         166         192         160
+file=    88 bulk=   0.999999 cbulk=   0.587622 opthk=  11.130113
+ reading file number           89
+ 21950         166         192         160
+file=    89 bulk=   0.999999 cbulk=   0.587678 opthk=  11.129751
+ reading file number           90
+ 21951         166         192         160
+file=    90 bulk=   0.999999 cbulk=   0.587716 opthk=  11.129163
+ reading file number           91
+ 21952         166         192         160
+file=    91 bulk=   0.999999 cbulk=   0.587715 opthk=  11.128364
+ reading file number           92
+ 21953         166         192         160
+file=    92 bulk=   0.999999 cbulk=   0.587711 opthk=  11.127593
+ reading file number           93
+ 21954         166         192         160
+file=    93 bulk=   0.999999 cbulk=   0.587746 opthk=  11.126763
+ reading file number           94
+ 21955         166         192         160
+file=    94 bulk=   0.999999 cbulk=   0.587765 opthk=  11.125785
+ reading file number           95
+ 21956         166         192         160
+file=    95 bulk=   0.999999 cbulk=   0.587761 opthk=  11.124573
+ reading file number           96
+ 21957         166         192         160
+file=    96 bulk=   0.999999 cbulk=   0.587712 opthk=  11.123341
+ reading file number           97
+ 21958         166         192         160
+file=    97 bulk=   0.999999 cbulk=   0.587610 opthk=  11.122382
+ reading file number           98
+ 21959         166         192         160
+file=    98 bulk=   0.999999 cbulk=   0.587538 opthk=  11.121915
+ reading file number           99
+ 21960         166         192         160
+file=    99 bulk=   0.999999 cbulk=   0.587453 opthk=  11.121697
+ reading file number          100
+ 21961         166         192         160
+file=   100 bulk=   0.999999 cbulk=   0.587444 opthk=  11.121668
+ reading file number          101
+ 21962         166         192         160
+file=   101 bulk=   0.999999 cbulk=   0.587435 opthk=  11.121723
+ reading file number          102
+ 21963         166         192         160
+file=   102 bulk=   0.999999 cbulk=   0.587361 opthk=  11.121740
+ reading file number          103
+ 21964         166         192         160
+file=   103 bulk=   0.999999 cbulk=   0.587331 opthk=  11.121697
+ reading file number          104
+ 21965         166         192         160
+file=   104 bulk=   0.999999 cbulk=   0.587324 opthk=  11.121812
+ reading file number          105
+ 21966         166         192         160
+file=   105 bulk=   0.999999 cbulk=   0.587314 opthk=  11.122197
+ reading file number          106
+ 21967         166         192         160
+file=   106 bulk=   0.999999 cbulk=   0.587249 opthk=  11.122505
+ reading file number          107
+ 21968         166         192         160
+file=   107 bulk=   0.999999 cbulk=   0.587158 opthk=  11.122772
+ reading file number          108
+ 21969         166         192         160
+file=   108 bulk=   0.999999 cbulk=   0.587109 opthk=  11.123061
+ reading file number          109
+ 21970         166         192         160
+file=   109 bulk=   0.999999 cbulk=   0.587063 opthk=  11.123598
+ reading file number          110
+ 21971         166         192         160
+file=   110 bulk=   0.999999 cbulk=   0.587041 opthk=  11.124107
+ reading file number          111
+ 21972         166         192         160
+file=   111 bulk=   0.999999 cbulk=   0.587101 opthk=  11.124513
+ reading file number          112
+ 21973         166         192         160
+file=   112 bulk=   0.999999 cbulk=   0.587175 opthk=  11.124640
+ reading file number          113
+ 21974         166         192         160
+file=   113 bulk=   0.999999 cbulk=   0.587248 opthk=  11.124685
+ reading file number          114
+ 21975         166         192         160
+file=   114 bulk=   0.999999 cbulk=   0.587304 opthk=  11.124801
+ reading file number          115
+ 21976         166         192         160
+file=   115 bulk=   0.999999 cbulk=   0.587371 opthk=  11.124627
+ reading file number          116
+ 21977         166         192         160
+file=   116 bulk=   0.999999 cbulk=   0.587463 opthk=  11.124192
+ reading file number          117
+ 21978         166         192         160
+file=   117 bulk=   0.999999 cbulk=   0.587595 opthk=  11.123373
+ reading file number          118
+ 21979         166         192         160
+file=   118 bulk=   0.999999 cbulk=   0.587730 opthk=  11.121942
+ reading file number          119
+ 21980         166         192         160
+file=   119 bulk=   0.999999 cbulk=   0.587849 opthk=  11.120228
+ reading file number          120
+ 21981         166         192         160
+file=   120 bulk=   0.999999 cbulk=   0.587898 opthk=  11.118819
+ reading file number            1
+ 21862         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.30015802383423     
+ reading file number            2
+ 21863         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.99045801162720     
+ reading file number            3
+ 21864         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.15016388893127     
+ reading file number            4
+ 21865         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.07784509658813     
+ reading file number            5
+ 21866         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.84103393554688     
+ reading file number            6
+ 21867         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.86731100082397     
+ reading file number            7
+ 21868         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.15158605575562     
+ reading file number            8
+ 21869         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.36577010154724     
+ reading file number            9
+ 21870         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.98761296272278     
+ reading file number           10
+ 21871         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.70603799819946     
+ reading file number           11
+ 21872         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.19903516769409     
+ reading file number           12
+ 21873         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.00960206985474     
+ reading file number           13
+ 21874         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.83129119873047     
+ reading file number           14
+ 21875         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.09534120559692     
+ reading file number           15
+ 21876         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.42172503471375     
+ reading file number           16
+ 21877         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.98175406455994     
+ reading file number           17
+ 21878         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.94271492958069     
+ reading file number           18
+ 21879         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.62126398086548     
+ reading file number           19
+ 21880         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.76949620246887     
+ reading file number           20
+ 21881         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.32189893722534     
+ reading file number           21
+ 21882         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.25441002845764     
+ reading file number           22
+ 21883         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.66093993186951     
+ reading file number           23
+ 21884         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.04495310783386     
+ reading file number           24
+ 21885         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.89886021614075     
+ reading file number           25
+ 21886         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.42848610877991     
+ reading file number           26
+ 21887         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.31223702430725     
+ reading file number           27
+ 21888         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.80342006683350     
+ reading file number           28
+ 21889         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.93931603431702     
+ reading file number           29
+ 21890         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.36089801788330     
+ reading file number           30
+ 21891         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.18070602416992     
+ reading file number           31
+ 21892         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.32913804054260     
+ reading file number           32
+ 21893         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.98897504806519     
+ reading file number           33
+ 21894         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.69244098663330     
+ reading file number           34
+ 21895         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.16182804107666     
+ reading file number           35
+ 21896         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.50506210327148     
+ reading file number           36
+ 21897         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.14457392692566     
+ reading file number           37
+ 21898         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.13524794578552     
+ reading file number           38
+ 21899         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.09182310104370     
+ reading file number           39
+ 21900         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.76863908767700     
+ reading file number           40
+ 21901         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.71906685829163     
+ reading file number           41
+ 21902         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.03662800788879     
+ reading file number           42
+ 21903         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.86155891418457     
+ reading file number           43
+ 21904         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.96183490753174     
+ reading file number           44
+ 21905         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.17076706886292     
+ reading file number           45
+ 21906         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.23700881004333     
+ reading file number           46
+ 21907         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.83181214332581     
+ reading file number           47
+ 21908         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.80984997749329     
+ reading file number           48
+ 21909         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.07210016250610     
+ reading file number           49
+ 21910         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.70465803146362     
+ reading file number           50
+ 21911         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.05985093116760     
+ reading file number           51
+ 21912         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.23660802841187     
+ reading file number           52
+ 21913         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.55935692787170     
+ reading file number           53
+ 21914         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.48275589942932     
+ reading file number           54
+ 21915         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.08912014961243     
+ reading file number           55
+ 21916         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.09384989738464     
+ reading file number           56
+ 21917         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.42432904243469     
+ reading file number           57
+ 21918         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.14094495773315     
+ reading file number           58
+ 21919         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.21016812324524     
+ reading file number           59
+ 21920         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.11393594741821     
+ reading file number           60
+ 21921         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.12543797492981     
+ reading file number           61
+ 21922         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.23625898361206     
+ reading file number           62
+ 21923         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.09115290641785     
+ reading file number           63
+ 21924         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.26781702041626     
+ reading file number           64
+ 21925         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.52253508567810     
+ reading file number           65
+ 21926         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.89807009696960     
+ reading file number           66
+ 21927         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.05929398536682     
+ reading file number           67
+ 21928         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.29110288619995     
+ reading file number           68
+ 21929         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.04905390739441     
+ reading file number           69
+ 21930         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.67150402069092     
+ reading file number           70
+ 21931         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.49985599517822     
+ reading file number           71
+ 21932         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.82492613792419     
+ reading file number           72
+ 21933         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.55682492256165     
+ reading file number           73
+ 21934         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.94085597991943     
+ reading file number           74
+ 21935         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.18873476982117     
+ reading file number           75
+ 21936         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.31916713714600     
+ reading file number           76
+ 21937         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.32994794845581     
+ reading file number           77
+ 21938         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.19125819206238     
+ reading file number           78
+ 21939         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.18418407440186     
+ reading file number           79
+ 21940         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.89088487625122     
+ reading file number           80
+ 21941         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.95487904548645     
+ reading file number           81
+ 21942         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.23174095153809     
+ reading file number           82
+ 21943         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.95983386039734     
+ reading file number           83
+ 21944         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.53054785728455     
+ reading file number           84
+ 21945         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.02526903152466     
+ reading file number           85
+ 21946         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.85164999961853     
+ reading file number           86
+ 21947         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.00816988945007     
+ reading file number           87
+ 21948         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.19179606437683     
+ reading file number           88
+ 21949         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.21652007102966     
+ reading file number           89
+ 21950         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.50593495368958     
+ reading file number           90
+ 21951         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.67824316024780     
+ reading file number           91
+ 21952         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.84758710861206     
+ reading file number           92
+ 21953         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.51718187332153     
+ reading file number           93
+ 21954         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.16501879692078     
+ reading file number           94
+ 21955         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.79493284225464     
+ reading file number           95
+ 21956         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.99682497978210     
+ reading file number           96
+ 21957         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.22734284400940     
+ reading file number           97
+ 21958         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.88606095314026     
+ reading file number           98
+ 21959         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.87754893302917     
+ reading file number           99
+ 21960         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.75215911865234     
+ reading file number          100
+ 21961         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.99042606353760     
+ reading file number          101
+ 21962         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.99917101860046     
+ reading file number          102
+ 21963         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.06055402755737     
+ reading file number          103
+ 21964         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.87179613113403     
+ reading file number          104
+ 21965         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.28678798675537     
+ reading file number          105
+ 21966         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.86453199386597     
+ reading file number          106
+ 21967         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.01168012619019     
+ reading file number          107
+ 21968         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.06744003295898     
+ reading file number          108
+ 21969         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.15720796585083     
+ reading file number          109
+ 21970         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.98293304443359     
+ reading file number          110
+ 21971         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.96920609474182     
+ reading file number          111
+ 21972         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.72448086738586     
+ reading file number          112
+ 21973         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.90913605690002     
+ reading file number          113
+ 21974         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.92175602912903     
+ reading file number          114
+ 21975         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.19298601150513     
+ reading file number          115
+ 21976         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.13466811180115     
+ reading file number          116
+ 21977         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.70128607749939     
+ reading file number          117
+ 21978         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.47467708587646     
+ reading file number          118
+ 21979         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    3.98788809776306     
+ reading file number          119
+ 21980         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.10008001327515     
+ reading file number          120
+ 21981         166         192         160
+ entering specbalz
+ entering specbaly
+ time in specbal:    4.15153288841248     
+ calculating normalization factors
+ done with : reading the data
+ Time required:    2597.10041284561     
